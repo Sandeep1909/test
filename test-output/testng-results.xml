@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-03T12:10:37 IST" name="Default suite" finished-at="2020-05-03T12:11:02 IST" duration-ms="24102">
+    <groups>
+    </groups>
+    <test started-at="2020-05-03T12:10:37 IST" name="Default test" finished-at="2020-05-03T12:11:02 IST" duration-ms="24102">
+      <class name="Way2AutomationTestLayerPackage.RegistrationTestClass">
+        <test-method is-config="true" signature="startup()[pri:0, instance:Way2AutomationTestLayerPackage.RegistrationTestClass@79efed2d]" started-at="2020-05-03T12:10:38 IST" name="startup" finished-at="2020-05-03T12:10:47 IST" duration-ms="9646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="RegistrationPageTest()[pri:1, instance:Way2AutomationTestLayerPackage.RegistrationTestClass@79efed2d]" started-at="2020-05-03T12:10:47 IST" name="RegistrationPageTest" finished-at="2020-05-03T12:10:50 IST" duration-ms="3303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationPageTest -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:Way2AutomationTestLayerPackage.RegistrationTestClass@79efed2d]" started-at="2020-05-03T12:10:50 IST" name="browserquit" finished-at="2020-05-03T12:11:02 IST" duration-ms="11090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- Way2AutomationTestLayerPackage.RegistrationTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
